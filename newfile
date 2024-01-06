@@ -1,1 +1,2 @@
-echo "this is my ip $(hostname)"
+#!/bin/bash
+echo "this is my jenkins file"
